@@ -5,6 +5,5 @@ def my_each(collection)
     i=i+1
 end
 
-my_each(collection) do |i|
-  puts i
+  array
 end
